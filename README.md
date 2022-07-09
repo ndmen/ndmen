@@ -2,7 +2,7 @@
 
 Hi!
 My name is Artem.
-I'm a Blockchain developer with a passion for Solidity. I enjoy working with and Solidity and Node.js. 
+I'm a Blockchain developer with a passion for Solidity. I enjoy working with Solidity and Node.js. 
 
 Hard skills:
 1. Solidity
