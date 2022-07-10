@@ -17,7 +17,7 @@ About
 
 Experience(From 1.01.2022)
 1. Anoda - Node.js Deveoler
-2. Upwork - Blockchain developer
+2. Upwork - Blockchain Developer
 
 Projects
 
