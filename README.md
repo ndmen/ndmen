@@ -20,7 +20,11 @@ Experience(From 1.01.2022)
 2. Upwork - Blockchain Developer
 
 Projects
+1. Blog on Nest.js, MongoDB https://github.com/ndmen/blog
+2. Chat on Nest.js, MongoDB https://github.com/ndmen/chat
+3. Storage on Nest.js, PostgreSQL https://github.com/ndmen/storage
 
 Learn Projects
+
 
 Languages: English, Ukrainian
