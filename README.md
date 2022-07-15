@@ -25,7 +25,7 @@ Projects
 3. Storage on Nest.js, PostgreSQL https://github.com/ndmen/storage
 
 Learn Projects
-1. Learn Solidity https://github.com/ndmen/learn.blockchain.solidity
+1. Learned Solidity https://github.com/ndmen/learn.blockchain.solidity
 2. Deploed an ERC-721 smart contract on the Rinkeby test network using MetaMask, Solidity, Hardhat, Pinata and Alchemy https://github.com/ndmen/learn.blockchain.nft
 
 
