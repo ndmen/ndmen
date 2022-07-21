@@ -23,6 +23,7 @@ Projects
 1. Blog on Nest.js, MongoDB https://github.com/ndmen/blog
 2. Chat on Nest.js, MongoDB https://github.com/ndmen/chat
 3. Storage on Nest.js, PostgreSQL https://github.com/ndmen/storage
+4. Booking on Nest.js, MongoDB https://github.com/ndmen/booking
 
 Learn Projects
 1. Learned Solidity https://github.com/ndmen/learn.blockchain.solidity
