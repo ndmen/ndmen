@@ -31,11 +31,9 @@ Learn Projects
 3. Created a Multi-Sig wallet https://github.com/ndmen/app.blockchain.multisigwallet
 4. Created an example of a basic wallet https://github.com/ndmen/app.blockchain.etherwallet
 
+Languages: English, Ukrainian
+
 Contacts:
 1. Telegram: https://t.me/ndmen
 2. LinkedIn: https://www.linkedin.com/in/artemabdullin
 3. YouTube: https://www.youtube.com/channel/UClCBBtKjEswk7sESOOQzeTQ
-
-
-
-Languages: English, Ukrainian
