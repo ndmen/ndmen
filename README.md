@@ -5,7 +5,7 @@ My name is Artem.
 I'm a Blockchain developer with a passion for Solidity. I enjoy working with Solidity and Node.js. 
 
 Hard skills:
-1. Solidity (Ether.js, OpenZeppelin, Hardhat)
+1. Solidity (Web3.js, OpenZeppelin, Hardhat)
 2. Node.js (Nest.js)
 3. MongoDB, PostgreSQL (Mongoose, TypeORM)
 
