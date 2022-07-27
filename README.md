@@ -30,6 +30,7 @@ Learn Projects
 2. Deploed an ERC-721 smart contract on the Rinkeby test network using MetaMask, Solidity, Hardhat, Pinata and Alchemy https://github.com/ndmen/learn.blockchain.nft
 3. Created a Multi-Sig wallet https://github.com/ndmen/app.blockchain.multisigwallet
 4. Created an example of a basic wallet https://github.com/ndmen/app.blockchain.etherwallet
+5. Created a decentralized application Linear Vesting https://github.com/ndmen/app.blockchain.linearvesting
 
 Languages: English, Ukrainian
 
