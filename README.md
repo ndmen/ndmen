@@ -18,6 +18,7 @@ Hard skills:
 Soft skills:
 1. Goal-oriented
 2. Problem solver
+3. Team management. For over 10 engineers (Code review, planning tasks, communication with clients)
 
 About me
 
