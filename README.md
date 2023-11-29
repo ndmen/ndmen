@@ -5,7 +5,7 @@ My name is Artem.
 I'm a Middle Software Engineer with a passion for Node.js, Solidity and Angular.
 
 Hard skills:
-1. JavaScript, TypeScript
+1. JavaScript, TypeScript, Object-oriented programming
 2. Solidity, Web3.js, Ether.js, OpenZeppelin, Hardhat, MetaMask
 3. Node.js, Nest.js, Express.js, Fastify.js
 4. MongoDB, PostgreSQL, Redis, Mongoose, TypeORM
