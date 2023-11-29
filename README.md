@@ -12,7 +12,7 @@ Hard skills:
 5. AWS EC2, AWS S3
 6. Docker, Nginx, CI/CD
 7. Git, Linux
-8. Microservices, GRPC, Protobuf, REST, GraphQL
+8. Microservices, GRPC, Protobuf, REST, GraphQL, Socket.io
 9. Angular, CSS, HTML, PWA
 
 Soft skills:
