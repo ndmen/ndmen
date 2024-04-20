@@ -7,7 +7,7 @@ I'm a Middle Software Engineer.
 Hard skills:
 1. JavaScript, TypeScript, OOP, RxJS
 2. Node.js, Nest.js, Express.js, Fastify.js
-3.MongoDB, PostgreSQL, Redis, Mongoose, TypeORM, Prisma, Sequelize
+3. MongoDB, PostgreSQL, Redis, Mongoose, TypeORM, Prisma, Sequelize
 4. Solidity, Web3.js, Ether.js, OpenZeppelin, Hardhat, MetaMask, EVM, Alchemy
 5. AWS EC2, AWS S3, Docker, Nginx, CI/CD, Git, Linux
 6. Microservices, GRPC, Protobuf, REST, GraphQL, Socket.io
