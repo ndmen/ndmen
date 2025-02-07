@@ -14,6 +14,3 @@ Work experience:
 2. Corpsoft - Middle Software Engineer / Team lead
 3. Dzencode - Middle Software Engineer / Team lead
 4. Anoda - Junior Software Engineer
-
-Contacts:
-1. Telegram: https://t.me/ndmen
