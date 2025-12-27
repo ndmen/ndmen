@@ -1,16 +1,21 @@
 # Biography
 
-Hard skills:
-1. TypeScript, PHP, Solidity
-2. Node.js, NestJS
-3. MongoDB, PostgreSQL, MySQL/MariaDB, Redis
-4. Web3.js, Ether.js,
-5. AWS, Azure, DigitalOcean, Docker, Nginx
-6. Microservices, GRPC, GraphQL, Socket.io, RabbitMQ, Kubernetes, Sentry
-8. Jira
+## Hard Skills:
+- TypeScript
+- Node.js, NestJS
+- PostgreSQL, MySQL, MariaDB, MongoDB, Redis
+- Apache Kafka, RabbitMQ
+- AWS / WS IAM / AWS EC2 / AWS RDS / AWS S3 / AWS SQS / AWS CW
+- Microservices, GRPC, GraphQL, Socket.io, Sentry, Datadog
+- Jira
 
-Work experience:
-1. NDA - Middle Software Engineer
-2. Corpsoft - Middle Software Engineer / Team lead
-3. Dzencode - Middle Software Engineer / Team lead
-4. Anoda - Junior Software Engineer
+## Work Experience:
+- NDA - Middle Backend Engineer
+- NDA - Middle Backend Engineer
+- Corpsoft - Middle Backend Engineer / Team lead
+- Dzencode - Middle Backend Engineer / Team lead
+- Anoda - Junior Backend Engineer
+
+## Currently Reading:
+- *Release It!: Design and Deploy Production-Ready Software* by Michael Nygard https://www.amazon.com/Release-Design-Deploy-Production-Ready-Software/dp/1680502395
+- *Soft Skills: The software developer's life manual* by John Sonmez https://www.amazon.com/Soft-Skills-software-developers-manual/dp/1617292397
