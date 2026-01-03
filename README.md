@@ -17,7 +17,7 @@
 - Anoda - Junior Backend Engineer
 
 ## Currently Reading:
-- 
+- *Amazon Web Services in Action, Third Edition: An in-depth guide to AWS* by Andreas Wittig, Michael Wittig https://www.amazon.com/Amazon-Services-Action-Third-depth/dp/163343916X/
 
 ## Read
 - *Soft Skills: The software developer's life manual* by John Sonmez https://www.amazon.com/Soft-Skills-software-developers-manual/dp/1617292397
