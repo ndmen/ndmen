@@ -17,5 +17,7 @@
 - Anoda - Junior Backend Engineer
 
 ## Currently Reading:
-- *Release It!: Design and Deploy Production-Ready Software* by Michael Nygard https://www.amazon.com/Release-Design-Deploy-Production-Ready-Software/dp/1680502395
+- 
+
+## Read
 - *Soft Skills: The software developer's life manual* by John Sonmez https://www.amazon.com/Soft-Skills-software-developers-manual/dp/1617292397
