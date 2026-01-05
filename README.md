@@ -12,8 +12,8 @@
 ## Work Experience:
 - NDA - Middle Backend Engineer
 - NDA - Middle Backend Engineer
-- Corpsoft - Middle Backend Engineer / Team lead
-- Dzencode - Middle Backend Engineer / Team lead
+- Corpsoft - Middle Backend Engineer / Team Lead
+- Dzencode - Middle Backend Engineer / Team Lead
 - Anoda - Junior Backend Engineer
 
 ## Currently Reading:
