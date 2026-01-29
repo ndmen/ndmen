@@ -17,8 +17,9 @@
 - Anoda - Junior Backend Engineer
 
 ## Reading Now:
-- *PostgreSQL Mistakes and How to Avoid Them* by Jimmy Angelakos https://www.amazon.com/PostgreSQL-Mistakes-How-Avoid-Them/dp/163343687X
+- *Node.js Design Patterns: Design and implement production-grade Node.js applications using proven patterns and techniques* by Mario Casciaro, Luciano Mammino https://www.amazon.com/Node-js-Design-Patterns-production-grade-applications/dp/1839214112
 
 ## Have Read
 - *Soft Skills: The software developer's life manual* by John Sonmez https://www.amazon.com/Soft-Skills-software-developers-manual/dp/1617292397
 - *Amazon Web Services in Action, Third Edition: An in-depth guide to AWS* by Andreas Wittig, Michael Wittig https://www.amazon.com/Amazon-Services-Action-Third-depth/dp/163343916X
+- *PostgreSQL Mistakes and How to Avoid Them* by Jimmy Angelakos https://www.amazon.com/PostgreSQL-Mistakes-How-Avoid-Them/dp/163343687X
